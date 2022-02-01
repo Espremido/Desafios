@@ -3,7 +3,7 @@ const usuarios = [
 
   { nome: 'Jasmine', tecnologias: ['JavaScript', 'CSS'] },
 
-  { nome: 'Tuane', tecnologias: ['HTML', 'Node.js'] }
+  { nome: 'Tuane', tecnologias: ['HTML', 'Nodxe.js'] }
 ]
 
 for (let i = 0; i < usuarios.length; i++) {
